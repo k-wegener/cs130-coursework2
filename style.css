@@ -5,18 +5,25 @@
 }
 
 body {
+    background-color: rgb(82, 193, 82);
     margin: 0px;
-    font-family: Arial, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
 }
-header, section {
-    padding: 20px;
+header {
+    background-color: lightskyblue;
+    padding-top: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://i.pinimg.com/originals/9d/25/26/9d2526427c6ef0e57330fd55e592a1a4.png);
+    padding: 50px;
+
+section {
+    padding: 40px;
+    }
 }
 p, li {
     line-height: 1.5em;
 }
-
 #inspiration {
-    background-color: #F0F0F0;
-    padding-top: 40px;
     padding-bottom: 40px;
 }
