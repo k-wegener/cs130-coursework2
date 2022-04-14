@@ -9,6 +9,8 @@ body {
     background-color: rgb(82, 193, 82);
     margin: 0px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    a:link {color:darkgreen};
+    a:visited {color:seagreen};
 }
 header {
     background-color: lightskyblue;
